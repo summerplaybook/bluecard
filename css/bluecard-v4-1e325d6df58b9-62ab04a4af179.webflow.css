@@ -59,7 +59,7 @@
   height: 45px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  background-color: #fdfff1;
+  background-color: #fff;
   cursor: text;
 }
 
@@ -155,8 +155,8 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/Flat-Mountains.svg');
-  background-position: 0% 0%;
+  background-image: url('../images/Flat-Mountains-1.svg');
+  background-position: 0px 0px;
   background-size: cover;
 }
 
